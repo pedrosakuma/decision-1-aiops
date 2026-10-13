@@ -9,6 +9,8 @@ We tested it on two public AIOps datasets against `gpt-4.1-nano`, a reasoning mo
 baselines. This post walks through the signals, how we framed what to detect, and the results,
 including a first attempt that did not work. The code is on [GitHub](https://github.com/pedrosakuma/decision-1-aiops).
 
+![Decision-1 results on root-cause analysis and HDFS anomaly detection](https://raw.githubusercontent.com/pedrosakuma/decision-1-aiops/main/blog/images/results.png)
+
 ## Highlights
 
 - **Root-cause ranking was a strong fit.** Decision-1 picked the root-cause service in 94% of 90 failure cases, beating a
