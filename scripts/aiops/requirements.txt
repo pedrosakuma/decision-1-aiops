@@ -1,0 +1,5 @@
+pandas
+pyarrow
+scikit-learn
+huggingface_hub
+remotezip
