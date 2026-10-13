@@ -11,6 +11,11 @@ An honest note: a logistic regression trained on 50 labeled blocks hit 95%. With
 
 What I'd tell someone trying it: calibrate the threshold, compute domain features instead of handing it raw counts, and test it on your own data first.
 
-Full write-up with the signals, a case analysis and results: https://dev.to/pedrosakuma/microsoft-decision-1-in-practice-probabilities-for-aiops-decisions-3kj8
+Full write-up with the signals, a case analysis and results: link in the first comment.
 
 #AIOps #Observability #LLM #MachineLearning
+
+---
+First comment (post it right after publishing):
+
+Full write-up with the signals, a case analysis and results: https://dev.to/pedrosakuma/microsoft-decision-1-in-practice-probabilities-for-aiops-decisions-3kj8

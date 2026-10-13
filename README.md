@@ -105,6 +105,7 @@ dotnet run --project src/DecisionExamples -- --aiops-final --baseline=gpt-4.1-na
 The lifecycle summary encodes HDFS domain knowledge (replication factor 3), i.e. feature engineering.
 
 ## Blogpost
-`blog/draft.md`
+Published on dev.to: [Microsoft-Decision-1 in practice: probabilities for AIOps decisions](https://dev.to/pedrosakuma/microsoft-decision-1-in-practice-probabilities-for-aiops-decisions-3kj8). Source: `blog/draft.md`
+(`scripts/publish_devto.py` pushes it to dev.to; it needs `DEVTO_API_KEY` in the environment).
 
 > Illustrative research only; not financial advice.
